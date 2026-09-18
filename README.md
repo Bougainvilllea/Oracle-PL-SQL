@@ -1,6 +1,6 @@
 # README
 
-## Oracle PL/SQL
+## Oracle PL/SQL (Версия Oracle - 10g Release 10.2.0.1.0.)
 
 ---
 
