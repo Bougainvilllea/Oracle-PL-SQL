@@ -54,4 +54,4 @@
 - `v_report_users_without_tasks` — Пользователи на проекте без задач
 - `v_report_top3_performers` — Топ-3 исполнителя за последний месяц
   
-![Схема БД](image/bd_shema.png)
+![Схема БД](image/bd_schema.png)
